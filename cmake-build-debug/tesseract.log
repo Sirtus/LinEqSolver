@@ -1,4 +1,0 @@
-Estimating resolution as 221
-ObjectCache(0x7f0edca46c00)::~ObjectCache(): WARNING! LEAK! object 0x556c74608850 still has count 1 (id /usr/local/share/tessdata/eng.traineddatalstm-punc-dawg)
-ObjectCache(0x7f0edca46c00)::~ObjectCache(): WARNING! LEAK! object 0x556c75c78e30 still has count 1 (id /usr/local/share/tessdata/eng.traineddatalstm-word-dawg)
-ObjectCache(0x7f0edca46c00)::~ObjectCache(): WARNING! LEAK! object 0x556c746088c0 still has count 1 (id /usr/local/share/tessdata/eng.traineddatalstm-number-dawg)
